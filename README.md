@@ -1,3 +1,1 @@
-# githubnew
-hello all
-welcome to github
+print("hello world")
